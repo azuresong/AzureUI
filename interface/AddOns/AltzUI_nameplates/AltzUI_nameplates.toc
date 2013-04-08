@@ -1,9 +1,0 @@
-﻿## Interface: 50200
-## Title: |cffEE3A8CAltz|rUI_nameplates
-## Notes: 分离自AltzUI的漂亮姓名板，带有BUFF计时。
-## Dependencies: Aurora
-## Version: 5.44
-## Author: Blue
-
-auralist.lua
-nameplates.lua

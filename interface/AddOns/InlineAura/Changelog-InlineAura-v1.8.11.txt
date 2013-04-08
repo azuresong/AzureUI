@@ -1,0 +1,15 @@
+tag v1.8.11
+dcd620effdaadabdf95769923052e481ba501ed2
+Adirelle <adirelle@gmail.com>
+2013-03-08 09:05:57 +0100
+
+Tagging as v1.8.11.
+
+
+--------------------
+
+Adirelle:
+	- Warrior 5.2 changes ; fixes #301.
+	- Added new health thresholds : 10% for Monks (for Touch of Death against players) and 45% for DK (T15 4p bonus).
+	- Removed Blood Pact ; fixes #299.
+	- TOC bump.

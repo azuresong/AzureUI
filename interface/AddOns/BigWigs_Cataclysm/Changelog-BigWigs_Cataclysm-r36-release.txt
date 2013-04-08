@@ -1,0 +1,177 @@
+------------------------------------------------------------------------
+r36 | funkydude | 2013-03-30 22:49:25 +0000 (Sat, 30 Mar 2013) | 1 line
+Changed paths:
+   A /tags/r36-release (from /trunk:35)
+
+Tagging as r36-release
+------------------------------------------------------------------------
+r35 | funkydude | 2013-03-30 22:47:56 +0000 (Sat, 30 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Firelands/Alysrazor.lua
+
+typo fix
+------------------------------------------------------------------------
+r34 | funkydude | 2013-03-30 22:41:30 +0000 (Sat, 30 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Firelands/Alysrazor.lua
+   M /trunk/Firelands/Baleroc.lua
+   M /trunk/Firelands/Bethtilac.lua
+   M /trunk/Firelands/Locales/deDE.lua
+   M /trunk/Firelands/Locales/esES.lua
+   M /trunk/Firelands/Locales/frFR.lua
+   M /trunk/Firelands/Locales/itIT.lua
+   M /trunk/Firelands/Locales/koKR.lua
+   M /trunk/Firelands/Locales/ptBR.lua
+   M /trunk/Firelands/Locales/ruRU.lua
+   M /trunk/Firelands/Locales/zhCN.lua
+   M /trunk/Firelands/Locales/zhTW.lua
+   M /trunk/Firelands/Ragnaros.lua
+   M /trunk/Firelands/Rhyolith.lua
+   M /trunk/Firelands/Shannox.lua
+   M /trunk/Firelands/Staghelm.lua
+   M /trunk/Throne/Alakir.lua
+
+Firelands: update to latest BW API
+------------------------------------------------------------------------
+r33 | funkydude | 2013-03-23 22:40:05 +0000 (Sat, 23 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Throne/Alakir.lua
+   M /trunk/Throne/Locales/deDE.lua
+   M /trunk/Throne/Locales/esES.lua
+   M /trunk/Throne/Locales/frFR.lua
+   M /trunk/Throne/Locales/itIT.lua
+   M /trunk/Throne/Locales/koKR.lua
+   M /trunk/Throne/Locales/ptBR.lua
+   M /trunk/Throne/Locales/ruRU.lua
+   M /trunk/Throne/Locales/zhCN.lua
+   M /trunk/Throne/Locales/zhTW.lua
+
+more cleanups
+------------------------------------------------------------------------
+r32 | funkydude | 2013-03-23 22:26:19 +0000 (Sat, 23 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Throne/Alakir.lua
+   M /trunk/Throne/Locales/deDE.lua
+   M /trunk/Throne/Locales/esES.lua
+   M /trunk/Throne/Locales/frFR.lua
+   M /trunk/Throne/Locales/itIT.lua
+   M /trunk/Throne/Locales/koKR.lua
+   M /trunk/Throne/Locales/ptBR.lua
+   M /trunk/Throne/Locales/ruRU.lua
+   M /trunk/Throne/Locales/zhCN.lua
+   M /trunk/Throne/Locales/zhTW.lua
+
+Alakir: cleanup
+------------------------------------------------------------------------
+r31 | funkydude | 2013-03-23 21:57:12 +0000 (Sat, 23 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Bastion/DoubleDragon.lua
+
+DoubleDragon: fix message icon
+------------------------------------------------------------------------
+r30 | funkydude | 2013-03-23 19:43:18 +0000 (Sat, 23 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Blackwing/Atramedes.lua
+   M /trunk/Blackwing/Chimaeron.lua
+   M /trunk/Blackwing/Locales/deDE.lua
+   M /trunk/Blackwing/Locales/esES.lua
+   M /trunk/Blackwing/Locales/frFR.lua
+   M /trunk/Blackwing/Locales/itIT.lua
+   M /trunk/Blackwing/Locales/koKR.lua
+   M /trunk/Blackwing/Locales/ptBR.lua
+   M /trunk/Blackwing/Locales/ruRU.lua
+   M /trunk/Blackwing/Locales/zhCN.lua
+   M /trunk/Blackwing/Locales/zhTW.lua
+   M /trunk/Blackwing/Magmaw.lua
+   M /trunk/Blackwing/Maloriak.lua
+   M /trunk/Blackwing/Nefarian.lua
+   M /trunk/Blackwing/Omnotron.lua
+   M /trunk/DragonSoul/DeathwingSpine.lua
+   M /trunk/DragonSoul/Ultraxion.lua
+   M /trunk/Firelands/Shannox.lua
+
+Blackwing: convert to latest BW API
+------------------------------------------------------------------------
+r29 | funkydude | 2013-03-23 17:00:57 +0000 (Sat, 23 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Bastion/Chogall.lua
+   M /trunk/Bastion/Halfus.lua
+   M /trunk/Bastion/Sinestra.lua
+   M /trunk/Bastion/TwilightAscendants.lua
+
+Bastion: Convert to latest BW API
+------------------------------------------------------------------------
+r27 | funkydude | 2013-03-05 14:37:16 +0000 (Tue, 05 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_Cataclysm.toc
+
+bump toc
+------------------------------------------------------------------------
+r26 | funkydude | 2013-03-05 00:43:27 +0000 (Tue, 05 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Baradin/Alizabal.lua
+   M /trunk/Baradin/Argaloth.lua
+   M /trunk/Baradin/Occuthar.lua
+   M /trunk/Bastion/DoubleDragon.lua
+   M /trunk/Bastion/Halfus.lua
+   M /trunk/Bastion/Locales/deDE.lua
+   M /trunk/Bastion/Locales/esES.lua
+   M /trunk/Bastion/Locales/frFR.lua
+   M /trunk/Bastion/Locales/itIT.lua
+   M /trunk/Bastion/Locales/koKR.lua
+   M /trunk/Bastion/Locales/ptBR.lua
+   M /trunk/Bastion/Locales/ruRU.lua
+   M /trunk/Bastion/Locales/zhCN.lua
+   M /trunk/Bastion/Locales/zhTW.lua
+
+BW API updates
+------------------------------------------------------------------------
+r25 | funkydude | 2013-03-04 16:26:09 +0000 (Mon, 04 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Bastion/Chogall.lua
+   M /trunk/Bastion/DoubleDragon.lua
+   M /trunk/Bastion/TwilightAscendants.lua
+   M /trunk/Blackwing/Atramedes.lua
+   M /trunk/Blackwing/Magmaw.lua
+   M /trunk/Blackwing/Maloriak.lua
+   M /trunk/Blackwing/Nefarian.lua
+   M /trunk/Blackwing/Omnotron.lua
+   M /trunk/DragonSoul/Blackhorn.lua
+   M /trunk/DragonSoul/DeathwingMadness.lua
+   M /trunk/DragonSoul/DeathwingSpine.lua
+   M /trunk/DragonSoul/Hagara.lua
+   M /trunk/DragonSoul/Morchok.lua
+   M /trunk/DragonSoul/Ultraxion.lua
+   M /trunk/DragonSoul/Yorsahj.lua
+   M /trunk/DragonSoul/Zonozz.lua
+   M /trunk/Firelands/Alysrazor.lua
+   M /trunk/Firelands/Baleroc.lua
+   M /trunk/Firelands/Bethtilac.lua
+   M /trunk/Firelands/Ragnaros.lua
+   M /trunk/Firelands/Shannox.lua
+   M /trunk/Firelands/Staghelm.lua
+   M /trunk/Throne/Alakir.lua
+   M /trunk/Throne/Conclave.lua
+
+API updates
+------------------------------------------------------------------------
+r24 | funkydude | 2013-02-22 19:50:24 +0000 (Fri, 22 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Bastion/TwilightAscendants.lua
+   M /trunk/Blackwing/Nefarian.lua
+   M /trunk/Blackwing/Omnotron.lua
+   M /trunk/DragonSoul/Blackhorn.lua
+   M /trunk/DragonSoul/DeathwingMadness.lua
+   M /trunk/DragonSoul/Hagara.lua
+   M /trunk/DragonSoul/Yorsahj.lua
+   M /trunk/DragonSoul/Zonozz.lua
+   M /trunk/Firelands/Alysrazor.lua
+   M /trunk/Firelands/Baleroc.lua
+   M /trunk/Firelands/Bethtilac.lua
+   M /trunk/Firelands/Ragnaros.lua
+   M /trunk/Firelands/Rhyolith.lua
+   M /trunk/Firelands/Staghelm.lua
+   M /trunk/Throne/Conclave.lua
+
+convert ej:n to -n
+------------------------------------------------------------------------

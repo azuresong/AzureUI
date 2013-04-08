@@ -1,0 +1,208 @@
+------------------------------------------------------------------------
+r14 | funkydude | 2013-03-05 17:23:49 +0000 (Tue, 05 Mar 2013) | 1 line
+Changed paths:
+   A /tags/r14-release (from /trunk:13)
+
+Tagging as r14-release
+------------------------------------------------------------------------
+r13 | funkydude | 2013-03-05 14:38:59 +0000 (Tue, 05 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_WrathOfTheLichKing.toc
+
+bump toc
+------------------------------------------------------------------------
+r12 | funkydude | 2013-03-04 16:59:18 +0000 (Mon, 04 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Citadel/BloodCouncil.lua
+   M /trunk/Citadel/DeathspeakerPriest.lua
+   M /trunk/Citadel/Deathwhisper.lua
+   M /trunk/Citadel/Lanathel.lua
+   M /trunk/Citadel/LichKing.lua
+   M /trunk/Citadel/Marrowgar.lua
+   M /trunk/Citadel/Putricide.lua
+   M /trunk/Citadel/Saurfang.lua
+   M /trunk/Citadel/Sindragosa.lua
+   M /trunk/Citadel/Valithria.lua
+   M /trunk/Coliseum/Anubarak.lua
+   M /trunk/Coliseum/Beasts.lua
+   M /trunk/Coliseum/Jaraxxus.lua
+   M /trunk/Coliseum/ValkyrTwins.lua
+   M /trunk/Naxxramas/Faerlina.lua
+   M /trunk/Naxxramas/Grobbulus.lua
+   M /trunk/Naxxramas/Kelthuzad.lua
+   M /trunk/Naxxramas/Thaddius.lua
+   M /trunk/Northrend/Archavon.lua
+   M /trunk/Northrend/Halion.lua
+   M /trunk/Northrend/Koralon.lua
+   M /trunk/Northrend/Malygos.lua
+   M /trunk/Ulduar/Freya.lua
+   M /trunk/Ulduar/Hodir.lua
+   M /trunk/Ulduar/Ignis.lua
+   M /trunk/Ulduar/IronCouncil.lua
+   M /trunk/Ulduar/Kologarn.lua
+   M /trunk/Ulduar/Razorscale.lua
+   M /trunk/Ulduar/Thorim.lua
+   M /trunk/Ulduar/Vezax.lua
+   M /trunk/Ulduar/XT-002.lua
+   M /trunk/Ulduar/YoggSaron.lua
+
+API updates
+------------------------------------------------------------------------
+r11 | funkydude | 2013-02-15 15:39:44 +0000 (Fri, 15 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Citadel/BloodCouncil.lua
+   M /trunk/Citadel/Gunship.lua
+   M /trunk/Citadel/LichKing.lua
+   M /trunk/Ulduar/Algalon.lua
+   M /trunk/Ulduar/IronCouncil.lua
+
+Rename GetCID > MobId
+------------------------------------------------------------------------
+r10 | funkydude | 2013-02-08 16:38:07 +0000 (Fri, 08 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Ulduar/Hodir.lua
+   M /trunk/Ulduar/Ignis.lua
+   M /trunk/Ulduar/IronCouncil.lua
+   M /trunk/Ulduar/Locales/deDE.lua
+   M /trunk/Ulduar/Locales/esES.lua
+   M /trunk/Ulduar/Locales/frFR.lua
+   M /trunk/Ulduar/Locales/koKR.lua
+   M /trunk/Ulduar/Locales/ruRU.lua
+   M /trunk/Ulduar/Locales/zhCN.lua
+   M /trunk/Ulduar/Locales/zhTW.lua
+   M /trunk/Ulduar/Mimiron.lua
+   M /trunk/Ulduar/Razorscale.lua
+
+BW API updates
+------------------------------------------------------------------------
+r9 | funkydude | 2013-02-05 23:27:13 +0000 (Tue, 05 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Citadel/BloodCouncil.lua
+   M /trunk/Citadel/Deathwhisper.lua
+   M /trunk/Citadel/Locales/ruRU.lua
+   M /trunk/Citadel/Putricide.lua
+   M /trunk/Naxxramas/Locales/ruRU.lua
+   M /trunk/Naxxramas/Thaddius.lua
+   M /trunk/Ulduar/Algalon.lua
+   M /trunk/Ulduar/Auriaya.lua
+   M /trunk/Ulduar/Freya.lua
+   M /trunk/Ulduar/Locales/deDE.lua
+   M /trunk/Ulduar/Locales/esES.lua
+   M /trunk/Ulduar/Locales/frFR.lua
+   M /trunk/Ulduar/Locales/koKR.lua
+   M /trunk/Ulduar/Locales/ruRU.lua
+   M /trunk/Ulduar/Locales/zhCN.lua
+   M /trunk/Ulduar/Locales/zhTW.lua
+   M /trunk/Ulduar/Mimiron.lua
+
+BW API updates
+------------------------------------------------------------------------
+r8 | funkydude | 2013-02-05 15:08:28 +0000 (Tue, 05 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Coliseum/Beasts.lua
+   M /trunk/Coliseum/Locales/deDE.lua
+   M /trunk/Coliseum/Locales/esES.lua
+   M /trunk/Coliseum/Locales/frFR.lua
+   M /trunk/Coliseum/Locales/koKR.lua
+   M /trunk/Coliseum/Locales/ruRU.lua
+   M /trunk/Coliseum/Locales/zhCN.lua
+   M /trunk/Coliseum/Locales/zhTW.lua
+   M /trunk/Northrend/Locales/deDE.lua
+   M /trunk/Northrend/Locales/frFR.lua
+   M /trunk/Northrend/Locales/koKR.lua
+   M /trunk/Northrend/Locales/ruRU.lua
+   M /trunk/Northrend/Locales/zhCN.lua
+   M /trunk/Northrend/Locales/zhTW.lua
+   M /trunk/Northrend/Sartharion.lua
+
+Remove :Translate calls
+------------------------------------------------------------------------
+r7 | funkydude | 2013-02-05 14:24:42 +0000 (Tue, 05 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Citadel/Locales/esES.lua
+   M /trunk/Citadel/Locales/ruRU.lua
+   M /trunk/Northrend/Locales/deDE.lua
+   M /trunk/Northrend/Locales/esES.lua
+   M /trunk/Northrend/Locales/koKR.lua
+   M /trunk/Ulduar/Locales/ruRU.lua
+
+cleanup locale files
+------------------------------------------------------------------------
+r6 | funkydude | 2013-02-05 14:10:13 +0000 (Tue, 05 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/Citadel/BloodCouncil.lua
+   M /trunk/Citadel/DeathboundWard.lua
+   M /trunk/Citadel/DeathspeakerPriest.lua
+   M /trunk/Citadel/Deathwhisper.lua
+   M /trunk/Citadel/Festergut.lua
+   M /trunk/Citadel/Lanathel.lua
+   M /trunk/Citadel/LichKing.lua
+   M /trunk/Citadel/Locales/deDE.lua
+   M /trunk/Citadel/Locales/esES.lua
+   M /trunk/Citadel/Locales/frFR.lua
+   M /trunk/Citadel/Locales/koKR.lua
+   M /trunk/Citadel/Locales/ruRU.lua
+   M /trunk/Citadel/Locales/zhCN.lua
+   M /trunk/Citadel/Locales/zhTW.lua
+   M /trunk/Citadel/Marrowgar.lua
+   M /trunk/Citadel/Putricide.lua
+   M /trunk/Citadel/Rotface.lua
+   M /trunk/Citadel/Saurfang.lua
+   M /trunk/Citadel/Sindragosa.lua
+   M /trunk/Citadel/Valithria.lua
+   M /trunk/Coliseum/Anubarak.lua
+   M /trunk/Coliseum/Beasts.lua
+   M /trunk/Coliseum/Champions.lua
+   M /trunk/Coliseum/Jaraxxus.lua
+   M /trunk/Coliseum/Locales/deDE.lua
+   M /trunk/Coliseum/Locales/esES.lua
+   M /trunk/Coliseum/Locales/frFR.lua
+   M /trunk/Coliseum/Locales/koKR.lua
+   M /trunk/Coliseum/Locales/ruRU.lua
+   M /trunk/Coliseum/Locales/zhCN.lua
+   M /trunk/Coliseum/Locales/zhTW.lua
+   M /trunk/Coliseum/ValkyrTwins.lua
+   M /trunk/Naxxramas/Faerlina.lua
+   M /trunk/Naxxramas/Gothik.lua
+   M /trunk/Naxxramas/Grobbulus.lua
+   M /trunk/Naxxramas/Kelthuzad.lua
+   M /trunk/Naxxramas/Maexxna.lua
+   M /trunk/Naxxramas/Noth.lua
+   M /trunk/Naxxramas/Sapphiron.lua
+   M /trunk/Naxxramas/Thaddius.lua
+   M /trunk/Northrend/Archavon.lua
+   M /trunk/Northrend/Emalon.lua
+   M /trunk/Northrend/Halion.lua
+   M /trunk/Northrend/Koralon.lua
+   M /trunk/Northrend/Locales/deDE.lua
+   M /trunk/Northrend/Locales/esES.lua
+   M /trunk/Northrend/Locales/frFR.lua
+   M /trunk/Northrend/Locales/koKR.lua
+   M /trunk/Northrend/Locales/ruRU.lua
+   M /trunk/Northrend/Locales/zhCN.lua
+   M /trunk/Northrend/Locales/zhTW.lua
+   M /trunk/Northrend/Malygos.lua
+   M /trunk/Northrend/Onyxia.lua
+   M /trunk/Northrend/Sartharion.lua
+   M /trunk/Ulduar/Freya.lua
+   M /trunk/Ulduar/Hodir.lua
+   M /trunk/Ulduar/Ignis.lua
+   M /trunk/Ulduar/IronCouncil.lua
+   M /trunk/Ulduar/Kologarn.lua
+   M /trunk/Ulduar/Leviathan.lua
+   M /trunk/Ulduar/Locales/deDE.lua
+   M /trunk/Ulduar/Locales/esES.lua
+   M /trunk/Ulduar/Locales/frFR.lua
+   M /trunk/Ulduar/Locales/koKR.lua
+   M /trunk/Ulduar/Locales/ruRU.lua
+   M /trunk/Ulduar/Locales/zhCN.lua
+   M /trunk/Ulduar/Locales/zhTW.lua
+   M /trunk/Ulduar/Mimiron.lua
+   M /trunk/Ulduar/Razorscale.lua
+   M /trunk/Ulduar/Thorim.lua
+   M /trunk/Ulduar/Vezax.lua
+   M /trunk/Ulduar/XT-002.lua
+   M /trunk/Ulduar/YoggSaron.lua
+
+BW API updates
+------------------------------------------------------------------------

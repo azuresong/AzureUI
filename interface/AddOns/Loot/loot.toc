@@ -1,0 +1,6 @@
+﻿## Interface: 50001
+## Title: loot
+## Notes: loot frame 
+## Dependencies: Aurora
+
+loot.lua

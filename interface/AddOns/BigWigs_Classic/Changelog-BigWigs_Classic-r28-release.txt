@@ -1,0 +1,225 @@
+------------------------------------------------------------------------
+r29 | funkydude | 2013-03-05 17:24:07 +0000 (Tue, 05 Mar 2013) | 1 line
+Changed paths:
+   A /tags/r28-release (from /trunk:28)
+
+Tagging as r28-release
+------------------------------------------------------------------------
+r28 | funkydude | 2013-03-05 17:03:10 +0000 (Tue, 05 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Locales/deDE.lua
+   M /trunk/BlackwingLair/Locales/esES.lua
+   M /trunk/BlackwingLair/Locales/frFR.lua
+   M /trunk/BlackwingLair/Locales/itIT.lua
+   M /trunk/BlackwingLair/Locales/koKR.lua
+   M /trunk/BlackwingLair/Locales/ptBR.lua
+   M /trunk/BlackwingLair/Locales/ruRU.lua
+   M /trunk/BlackwingLair/Locales/zhCN.lua
+   M /trunk/BlackwingLair/Locales/zhTW.lua
+   M /trunk/BlackwingLair/Nefarian.lua
+   M /trunk/MoltenCore/Locales/deDE.lua
+   M /trunk/MoltenCore/Locales/esES.lua
+   M /trunk/MoltenCore/Locales/frFR.lua
+   M /trunk/MoltenCore/Locales/itIT.lua
+   M /trunk/MoltenCore/Locales/koKR.lua
+   M /trunk/MoltenCore/Locales/ptBR.lua
+   M /trunk/MoltenCore/Locales/ruRU.lua
+   M /trunk/MoltenCore/Locales/zhCN.lua
+   M /trunk/MoltenCore/Locales/zhTW.lua
+   M /trunk/MoltenCore/Ragnaros.lua
+
+Add a space in the old nef/rag module names so they don't conflict with the cata ones.
+------------------------------------------------------------------------
+r27 | funkydude | 2013-03-05 14:37:32 +0000 (Tue, 05 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_Classic.toc
+
+bump toc
+------------------------------------------------------------------------
+r26 | funkydude | 2013-02-25 16:39:23 +0000 (Mon, 25 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Broodlord.lua
+   M /trunk/BlackwingLair/Ebonroc.lua
+   M /trunk/BlackwingLair/Firemaw.lua
+   M /trunk/BlackwingLair/Flamegor.lua
+   M /trunk/BlackwingLair/Razorgore.lua
+   M /trunk/BlackwingLair/Vaelastrasz.lua
+
+tweaks
+------------------------------------------------------------------------
+r25 | funkydude | 2013-02-23 13:27:18 +0000 (Sat, 23 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Nefarian.lua
+
+bugfix
+------------------------------------------------------------------------
+r24 | funkydude | 2013-02-23 04:44:50 +0000 (Sat, 23 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Locales/deDE.lua
+   M /trunk/BlackwingLair/Locales/frFR.lua
+   M /trunk/BlackwingLair/Locales/koKR.lua
+   M /trunk/BlackwingLair/Locales/ruRU.lua
+   M /trunk/BlackwingLair/Locales/zhCN.lua
+   M /trunk/BlackwingLair/Locales/zhTW.lua
+   M /trunk/BlackwingLair/Nefarian.lua
+   M /trunk/BlackwingLair/modules.xml
+
+fixes
+------------------------------------------------------------------------
+r23 | funkydude | 2013-02-23 04:02:25 +0000 (Sat, 23 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Nefarian.lua
+   M /trunk/MoltenCore/BaronGeddon.lua
+   M /trunk/MoltenCore/Gehennas.lua
+
+more API updates
+------------------------------------------------------------------------
+r22 | funkydude | 2013-02-22 14:50:26 +0000 (Fri, 22 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Locales/deDE.lua
+   M /trunk/BlackwingLair/Locales/frFR.lua
+   M /trunk/BlackwingLair/Locales/koKR.lua
+   M /trunk/BlackwingLair/Locales/ruRU.lua
+   M /trunk/BlackwingLair/Locales/zhCN.lua
+   M /trunk/BlackwingLair/Locales/zhTW.lua
+   M /trunk/BlackwingLair/Nefarian.lua
+
+more API updates
+------------------------------------------------------------------------
+r21 | funkydude | 2013-02-21 18:53:46 +0000 (Thu, 21 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Ebonroc.lua
+   M /trunk/BlackwingLair/Flamegor.lua
+   M /trunk/BlackwingLair/Locales/deDE.lua
+   M /trunk/BlackwingLair/Locales/esES.lua
+   M /trunk/BlackwingLair/Locales/frFR.lua
+   M /trunk/BlackwingLair/Locales/itIT.lua
+   M /trunk/BlackwingLair/Locales/koKR.lua
+   M /trunk/BlackwingLair/Locales/ptBR.lua
+   M /trunk/BlackwingLair/Locales/ruRU.lua
+   M /trunk/BlackwingLair/Locales/zhCN.lua
+   M /trunk/BlackwingLair/Locales/zhTW.lua
+   M /trunk/BlackwingLair/Nefarian.lua
+   M /trunk/BlackwingLair/modules.xml
+
+more API updates
+------------------------------------------------------------------------
+r20 | funkydude | 2013-02-21 17:28:26 +0000 (Thu, 21 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Ebonroc.lua
+   M /trunk/BlackwingLair/modules.xml
+
+more API updates
+------------------------------------------------------------------------
+r19 | funkydude | 2013-02-21 16:50:06 +0000 (Thu, 21 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Firemaw.lua
+   M /trunk/BlackwingLair/Razorgore.lua
+   M /trunk/BlackwingLair/Vaelastrasz.lua
+
+more API updates
+------------------------------------------------------------------------
+r18 | funkydude | 2013-02-21 03:19:31 +0000 (Thu, 21 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Locales/deDE.lua
+   M /trunk/BlackwingLair/Locales/frFR.lua
+   M /trunk/BlackwingLair/Locales/koKR.lua
+   M /trunk/BlackwingLair/Locales/ruRU.lua
+   M /trunk/BlackwingLair/Locales/zhCN.lua
+   M /trunk/BlackwingLair/Locales/zhTW.lua
+   M /trunk/BlackwingLair/Razorgore.lua
+
+Razorgore: fixes
+------------------------------------------------------------------------
+r17 | funkydude | 2013-02-21 02:00:23 +0000 (Thu, 21 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Broodlord.lua
+   M /trunk/BlackwingLair/Vaelastrasz.lua
+
+icon removal and option fix
+------------------------------------------------------------------------
+r16 | funkydude | 2013-02-21 01:49:16 +0000 (Thu, 21 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BlackwingLair/Broodlord.lua
+   M /trunk/BlackwingLair/Vaelastrasz.lua
+   M /trunk/BlackwingLair/modules.xml
+
+more API updates
+------------------------------------------------------------------------
+r15 | funkydude | 2013-02-21 01:32:52 +0000 (Thu, 21 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_Classic.toc
+   M /trunk/BlackwingLair/Locales/deDE.lua
+   M /trunk/BlackwingLair/Locales/frFR.lua
+   A /trunk/BlackwingLair/Locales/itIT.lua
+   M /trunk/BlackwingLair/Locales/koKR.lua
+   A /trunk/BlackwingLair/Locales/ptBR.lua
+   M /trunk/BlackwingLair/Locales/ruRU.lua
+   M /trunk/BlackwingLair/Locales/zhCN.lua
+   M /trunk/BlackwingLair/Locales/zhTW.lua
+   M /trunk/BlackwingLair/Razorgore.lua
+   M /trunk/BlackwingLair/locales.xml
+   M /trunk/MoltenCore/locales.xml
+   M /trunk/modules.xml
+
+start on BWL API updates
+------------------------------------------------------------------------
+r14 | funkydude | 2013-02-19 23:27:14 +0000 (Tue, 19 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/MoltenCore/BaronGeddon.lua
+   M /trunk/MoltenCore/Gehennas.lua
+   M /trunk/MoltenCore/Lucifron.lua
+   M /trunk/MoltenCore/Majordomo.lua
+   M /trunk/MoltenCore/Ragnaros.lua
+
+API updates
+------------------------------------------------------------------------
+r13 | funkydude | 2013-02-17 15:39:20 +0000 (Sun, 17 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/MoltenCore/BaronGeddon.lua
+   M /trunk/MoltenCore/Garr.lua
+   M /trunk/MoltenCore/Gehennas.lua
+   M /trunk/MoltenCore/Lucifron.lua
+   M /trunk/MoltenCore/Magmadar.lua
+   M /trunk/MoltenCore/Majordomo.lua
+   M /trunk/MoltenCore/Ragnaros.lua
+   M /trunk/MoltenCore/Shazzrah.lua
+   M /trunk/MoltenCore/Sulfuron.lua
+
+Update to latest API
+------------------------------------------------------------------------
+r12 | funkydude | 2013-02-07 23:33:37 +0000 (Thu, 07 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/MoltenCore/Shazzrah.lua
+   M /trunk/MoltenCore/Sulfuron.lua
+
+Sulfuron: throttle heal alert
+------------------------------------------------------------------------
+r11 | funkydude | 2013-02-05 10:29:52 +0000 (Tue, 05 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/MoltenCore/BaronGeddon.lua
+   M /trunk/MoltenCore/Gehennas.lua
+
+rename FlashShake > Flash
+------------------------------------------------------------------------
+r10 | funkydude | 2013-02-04 22:10:50 +0000 (Mon, 04 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/MoltenCore/Lucifron.lua
+
+fix a nil arg
+------------------------------------------------------------------------
+r9 | funkydude | 2013-02-04 14:56:58 +0000 (Mon, 04 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/MoltenCore/Majordomo.lua
+   M /trunk/MoltenCore/Ragnaros.lua
+   M /trunk/MoltenCore/Shazzrah.lua
+   M /trunk/MoltenCore/Sulfuron.lua
+
+tweaks
+------------------------------------------------------------------------
+r8 | funkydude | 2013-01-30 02:41:02 +0000 (Wed, 30 Jan 2013) | 1 line
+Changed paths:
+   M /trunk/MoltenCore/Ragnaros.lua
+
+Ragnaros: bugfix, better bar icons & message sounds.
+------------------------------------------------------------------------

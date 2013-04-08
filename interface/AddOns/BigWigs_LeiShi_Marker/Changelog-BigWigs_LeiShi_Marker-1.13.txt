@@ -1,0 +1,43 @@
+------------------------------------------------------------------------
+r16 | maat | 2013-03-06 11:31:44 +0000 (Wed, 06 Mar 2013) | 1 line
+Changed paths:
+   A /tags/1.13 (from /trunk:15)
+
+Tagging as 1.13
+------------------------------------------------------------------------
+r15 | maat | 2013-03-06 11:31:33 +0000 (Wed, 06 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_LeiShi_Marker.toc
+
+bump toc
+------------------------------------------------------------------------
+r14 | funkydude | 2013-02-26 19:55:00 +0000 (Tue, 26 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_LeiShi_Marker.lua
+
+more optimizations
+------------------------------------------------------------------------
+r13 | funkydude | 2013-02-26 15:09:55 +0000 (Tue, 26 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_LeiShi_Marker.lua
+
+optimizations
+------------------------------------------------------------------------
+r12 | starinnia | 2013-02-21 19:51:19 +0000 (Thu, 21 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_LeiShi_Marker.lua
+
+proper capitalization on API update
+------------------------------------------------------------------------
+r11 | maat | 2013-02-19 20:22:34 +0000 (Tue, 19 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_LeiShi_Marker.lua
+
+api conversion
+------------------------------------------------------------------------
+r10 | _yusaku_ | 2013-02-15 15:26:08 +0000 (Fri, 15 Feb 2013) | 1 line
+Changed paths:
+   M /trunk/BigWigs_LeiShi_Marker.toc
+
+itIT .toc locale description added
+------------------------------------------------------------------------

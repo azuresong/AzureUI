@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: Skins
+## Notes: Skins
+## Credits to:  Dawn, Shestak, Haste, Roth, P3lim, Monolit, AlleyKat,Tukz.
+## Author: Qulight
+## OptionalDeps: DXE, Recount, Omen, Skada, KLE, DBM, TinyDPS
+
+load_addonskins.xml
+LoadSkinss.lua
+Func.lua

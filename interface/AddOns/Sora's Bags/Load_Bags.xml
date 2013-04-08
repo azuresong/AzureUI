@@ -1,0 +1,10 @@
+﻿<Ui xmlns="http://www.blizzard.com/wow/ui/">
+
+	<Script file = "Init.lua"/>
+	<Script file = "Variables.lua"/>
+	<Script file = "API.lua"/>
+	<Include file = "JPack\JPack.xml"/>	
+	<Include file = "cargBags\embed.xml"/>
+	<Script file = "Bags.lua"/>
+
+</Ui>

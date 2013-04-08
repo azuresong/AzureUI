@@ -1,0 +1,6 @@
+## Interface: 50001
+## Title: Map
+## Author: qulight
+## Notes: Map from qulightUI,modified by Azuresong
+
+map.lua

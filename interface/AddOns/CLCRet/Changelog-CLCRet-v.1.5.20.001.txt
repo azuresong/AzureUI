@@ -1,0 +1,21 @@
+------------------------------------------------------------------------
+r217 | abija | 2013-03-08 06:38:38 +0000 (Fri, 08 Mar 2013) | 1 line
+Changed paths:
+   A /tags/v.1.5.20.001 (from /trunk:216)
+
+Tagging as v.1.5.20.001
+------------------------------------------------------------------------
+r216 | abija | 2013-03-06 10:30:07 +0000 (Wed, 06 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/CLCRet.toc
+   M /trunk/Options/CLCRet_Options.toc
+   M /trunk/retmodule/rotation.lua
+
+5.2 toc update
+------------------------------------------------------------------------
+r215 | abija | 2013-01-11 08:11:24 +0000 (Fri, 11 Jan 2013) | 1 line
+Changed paths:
+   M /trunk/retmodule/rotation.lua
+
+- added jaw
+------------------------------------------------------------------------

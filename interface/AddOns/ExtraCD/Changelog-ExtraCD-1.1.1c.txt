@@ -1,0 +1,68 @@
+------------------------------------------------------------------------
+r97 | superk521 | 2013-03-27 01:10:29 +0000 (Wed, 27 Mar 2013) | 3 lines
+Changed paths:
+   A /tags/1.1.1c (from /trunk:96)
+
+tag as version 1.1.1c
+add 476 pvp trinkets
+add some thunderforged items
+------------------------------------------------------------------------
+r96 | superk521 | 2013-03-27 01:05:49 +0000 (Wed, 27 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/data.lua
+
+add some thunderforged items
+------------------------------------------------------------------------
+r95 | superk521 | 2013-03-20 01:09:39 +0000 (Wed, 20 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/data.lua
+
+add some thunderforged items
+------------------------------------------------------------------------
+r94 | superk521 | 2013-03-09 04:43:31 +0000 (Sat, 09 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/data.lua
+
+update for pvp trinkets
+------------------------------------------------------------------------
+r92 | superk521 | 2013-03-08 12:01:28 +0000 (Fri, 08 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/ExtraCD.lua
+
+hide in pet battles
+------------------------------------------------------------------------
+r91 | superk521 | 2013-03-08 08:58:18 +0000 (Fri, 08 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/ExtraCD.lua
+   M /trunk/data.lua
+   M /trunk/options.lua
+
+add some thunderforged items
+------------------------------------------------------------------------
+r90 | superk521 | 2013-03-08 05:16:41 +0000 (Fri, 08 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/Libs/AceDBOptions-3.0/AceDBOptions-3.0.lua
+   M /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-BlizOptionsGroup.lua
+   M /trunk/Libs/AceGUI-3.0/widgets/AceGUIContainer-InlineGroup.lua
+   M /trunk/Libs/AceGUI-3.0/widgets/AceGUIWidget-ColorPicker.lua
+   M /trunk/Libs/AceTimer-3.0/AceTimer-3.0.lua
+
+update libs
+------------------------------------------------------------------------
+r89 | superk521 | 2013-03-08 05:03:03 +0000 (Fri, 08 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/ExtraCD.lua
+
+fix the algorithm for R-PPM's estimated cd 
+------------------------------------------------------------------------
+r87 | superk521 | 2013-03-07 16:40:43 +0000 (Thu, 07 Mar 2013) | 4 lines
+Changed paths:
+   M /trunk/ExtraCD.lua
+   M /trunk/ExtraCD.toc
+   M /trunk/data.lua
+
+update for 5.2
+add new trinkets
+new formula for R-PPM enchants(need more testing)
+
+------------------------------------------------------------------------

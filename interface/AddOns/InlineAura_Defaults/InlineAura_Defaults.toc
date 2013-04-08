@@ -1,0 +1,20 @@
+## Interface: 50200
+## X-Curse-Packaged-Version: v1.8.11
+## X-Curse-Project-Name: Inline Aura
+## X-Curse-Project-ID: inline-aura
+## X-Curse-Repository-ID: wow/inline-aura/mainline
+
+## Title: Inline Aura - Default spell configuration
+## Author: Adirelle
+## LoadOnDemand: 1
+## Version: v1.8.11
+## OptionalDeps: DRData-1.0
+## X-Date: 2013-03-08T08:05:41Z
+## X-Part-Of: InlineAura
+
+#@no-lib-strip@
+..\InlineAura\libs\LibStub\LibStub.lua
+..\InlineAura\libs\DRData-1.0\DRData-1.0.lua
+#@end-no-lib-strip@
+
+..\InlineAura\Defaults.lua

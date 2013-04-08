@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+r191 | funkydude | 2013-03-06 00:36:04 +0000 (Wed, 06 Mar 2013) | 1 line
+Changed paths:
+   A /tags/r191-release (from /trunk:190)
+
+Tagging as r191-release
+------------------------------------------------------------------------
+r190 | funkydude | 2013-03-06 00:22:54 +0000 (Wed, 06 Mar 2013) | 1 line
+Changed paths:
+   M /trunk/!BugGrabber.toc
+
+bump toc
+------------------------------------------------------------------------
+r189 | archarodim | 2012-11-23 00:10:51 +0000 (Fri, 23 Nov 2012) | 1 line
+Changed paths:
+   M /trunk/BugGrabber.lua
+
+Make setupCallbacks() accessible from the outside for add-ons relying on BG events so they can make BugGrabber.RegisterCallback() appear when they need it (CallbackHandler-1.0 is not embedded in BG) and thus BugGrabber.RegisterCallback() is usually only available after PLAYER_LOGIN (when a non-embedded BG is loaded)...
+------------------------------------------------------------------------

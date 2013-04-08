@@ -1,0 +1,10 @@
+## Interface: 50001
+## Title: oUF_Freeb
+## Author: Freebaser
+## Version: 4.7
+## Notes: oUF layout.
+## Dependencies: oUF
+## OptionalDeps: oUF_Experience
+
+ftags.lua
+freeb.lua

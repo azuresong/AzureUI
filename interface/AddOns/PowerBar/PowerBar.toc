@@ -1,0 +1,6 @@
+## Interface: 50001
+## Title: Power Bar
+## Notes: PowerBar
+## Dependencies: Aurora
+
+PowerBar.lua

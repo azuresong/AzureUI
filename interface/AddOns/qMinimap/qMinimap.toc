@@ -1,0 +1,7 @@
+## Interface: 50000
+## Title: q|cFF00A2FFMinimap|r
+## Notes: Minimap
+## Author: Qulight
+## Version: 1.0
+
+qMinimap.lua

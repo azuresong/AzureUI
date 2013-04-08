@@ -1,0 +1,6 @@
+## Interface: 50001
+## Title: Misc
+## Notes: Mini Addons collection
+
+
+Misc.xml

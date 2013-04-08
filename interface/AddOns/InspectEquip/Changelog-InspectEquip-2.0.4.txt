@@ -1,0 +1,30 @@
+tag 2.0.4
+fa234068cf0be136919adc7b8e572043d9043f81
+emelio <emelio.wow@gmail.com>
+2013-03-27 16:18:14 +0100
+
+InspectEquip 2.0.4:
+- Updated for WoW 5.2
+- Updated item database
+- Improvements to the inspect panel - thanks eridius!
+
+
+--------------------
+
+emelio:
+	- Update vendor prices
+	- Fix currency icons in tooltips for 5.2
+	- Update for WoW 5.2
+	- Add 5.x legendary items
+	- Add T15 items
+	- Update vendor items
+	- Update faction items
+	- Update profession items
+Kevin Ballard:
+	- Anchor the item tooltip intelligently
+	Put the item tooltip on whichever side of the row has more room instead
+	of always trying to put it on top of the row.
+	- Tweak how lines are laid out
+	Instead of using spaces to pad out each line, change the point of the
+	line such that it doesn't start until the text does. This prevents
+	mouseover in the padding from showing the tooltip.

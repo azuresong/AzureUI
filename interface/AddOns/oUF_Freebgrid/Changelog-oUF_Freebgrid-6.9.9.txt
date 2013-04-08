@@ -1,0 +1,15 @@
+tag 6.9.9
+aa01d6b276569f93e87e0d56b20782182c63ebcc
+freebaser <freebaser@freebaser.net>
+2012-11-27 22:19:09 -0600
+
+version 6.9.9
+
+
+--------------------
+
+freebaser:
+	- toc bump
+	- fix heal bar; add monk buff
+pga:
+	- added "Mogu'shan Vaults", "Heart of Fear" and "Terrace of Endless Spring" to aura_list.lua

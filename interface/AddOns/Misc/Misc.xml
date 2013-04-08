@@ -1,0 +1,19 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="AchievementLinkFix.lua"/>
+	<Script file="Align.lua"/>
+	<Script file="AlreadyKnown.lua"/>
+	<Script file="BlizzBugsSuck.lua"/>
+	<Script file="castby.lua"/>
+	<Script file="Closeup.lua"/>
+	<Script file="damagemeters.lua"/>
+	<Script file="DamnAchievementSpam.lua"/>
+	<Script file="DragEmAll.lua"/>
+	<Script file="Focuser.lua"/>
+	<Script file="GuildRosterSelectedFix.lua"/>
+	<Script file="InspectFix.lua"/>
+	<Script file="Krys_NoError.lua"/>
+	<Script file="ncHoverBind.lua"/>
+	<Script file="NoReading.lua"/>
+	<Script file="SpellID.lua"/>
+	<Script file="yQuestLevel.lua"/>
+</Ui>

@@ -1,0 +1,15 @@
+------------------------------------------------------------------------
+r18 | maat | 2013-03-06 11:31:12 +0000 (Wed, 06 Mar 2013) | 1 line
+Changed paths:
+   A /tags/1.22 (from /trunk:17)
+
+Tagging as 1.22
+------------------------------------------------------------------------
+r17 | gabestah | 2013-03-06 06:06:35 +0000 (Wed, 06 Mar 2013) | 2 lines
+Changed paths:
+   M /trunk/ShaOfFearAssist.lua
+   M /trunk/ShaOfFearAssist.toc
+
+Bumped ToC for 5.2.
+Safe zones should now properly reset back to the starting positions during Death Blossom.
+------------------------------------------------------------------------

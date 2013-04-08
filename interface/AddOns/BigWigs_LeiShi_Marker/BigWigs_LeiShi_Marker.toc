@@ -1,0 +1,23 @@
+## Title: Big Wigs |cffff0000+|r|cffffffff Lei Shi Marker|r
+## Title-itIT: Big Wigs |cffff0000+|r|cffffffff Lei Shi Marker|r
+## X-Curse-Packaged-Version: 1.13
+## X-Curse-Project-Name: BigWigs_LeiShi_Marker 
+## X-Curse-Project-ID: bigwigs_leishi_marker
+## X-Curse-Repository-ID: wow/bigwigs_leishi_marker/mainline
+
+## Notes: Marks the Animated Protectors in the Lei Shi encounter
+## Notes-itIT: Mette un simbolo sui Protettori Rianimati durante lo scontro con Lei Shi
+
+## Author: Caleb
+
+## Interface: 50200
+## Version: 1.13
+
+## X-BigWigs-LoadOn-ZoneId: 886
+
+## Dependencies: BigWigs
+
+## LoadOnDemand: 1
+
+BigWigs_LeiShi_Marker.lua
+

@@ -1,0 +1,40 @@
+tag v5.1.3
+b3ad684e642c231f5446fe4bd597343bfa7b6523
+T.G <farmer1992@gmail.com>
+2013-03-12 19:48:29 +0800
+
+Update toc to 5.2
+
+
+--------------------
+
+T.G:
+	- update toc to 5.2
+	- move hook to addon loaded
+	- remove .sh from build
+	- fix bug #showtooltip icon not change when modifier reported by zettaswl
+	- update README
+	- new dist tool for pull locale from wowace
+tg123:
+	- Update README.markdown
+T.G:
+	- fix bug #showtooltip icon not change when modifier reported by zettaswl
+	- update README
+	- fix bad spell
+	- remove unused code
+	- new dist tool for pull locale from wowace
+	- fix bad spell
+	- remove unused code
+tg123:
+	- Update README.markdown
+	- Update README.markdown
+	- Update README.markdown
+T.G:
+	- add toc translate
+	- remove chinese
+	- i18n first blood
+	- rename to Myslot
+	- add myslot.zip to ignore
+tg123:
+	- Update README.markdown
+	- Update README.markdown
